@@ -1,0 +1,6 @@
+sentence-transformers
+sqlite-vec
+numpy
+requests
+python-telegram-bot>=21.0
+google-genai
